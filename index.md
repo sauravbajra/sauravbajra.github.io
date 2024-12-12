@@ -1,4 +1,3 @@
-
 ```json
 {
   "basics": {
@@ -16,13 +15,28 @@
       "countryCode": "NP",
       "region": "Bagmati"
     },
-    "profiles": [{
+  %%   "profiles": [{
       "network": "Twitter",
       "username": "john",
       "url": "https://twitter.com/john"
-    }]
+    }] %%
   },
-  "work": [{
+  "work": [
+	  {
+	    "name": "RIMES - Regional Integrated Multi-Hazard Early Warning System",
+	    "position": "Full Stack Developer Consultant",
+	    "url": "https://www.rimes.int/",
+	    "startDate": "2024-04-15",
+	    "endDate": "Present",
+	    "summary": "The Regional Integrated Multi-Hazard Early Warning System for Africa and Asia (RIMES) is aninternational and intergovernmental institution that is owned and managed by its 48 Member andCollaborating States for building capacities in the generation and application of user-relevantmulti-hazard early warning information, for resources and risks management. RIMES wasestablished on 30 April 2009 through the signing by collaborating countries of the RIMES regionalcooperation agreement. RIMES was registered with the United Nations under Article 102 of the UNCharter on 1 July 2009. RIMES Headquarters operates from its regional early warning center,located in the campus of the Asian Institute of Technology in Pathumthani, Thailand; countryoffices have been established strategically.",
+	    "highlights": [
+	      "Development of Decision Support System using React and Django and integrating various weather and climate models",
+"Consult with government partner institutions for refinement and enhancement of DSSs",
+"Coordinate with different ministries of Nepal on requirements gathering, data identification and integration",
+"Server Configuration, Management and Scripting"
+	    ]
+	  },
+  {
     "name": "Black Dove Studios",
     "position": "Co-Founder",
     "url": "https://dove.black",
