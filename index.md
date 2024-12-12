@@ -1,6 +1,4 @@
-# Saurav Bajracharya
-
-## Basics
+## Details
 - **Label:** Software Engineer
 - **Email:** [saurav.buzzracharya@gmail.com](mailto:saurav.buzzracharya@gmail.com)
 - **Phone:** (977) 9843-064507
