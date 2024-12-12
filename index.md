@@ -7,11 +7,11 @@
     "image": "",
     "email": "saurav.buzzracharya@gmail.com",
     "phone": "(977) 9843-064507",
-    "url": "https://bajracharyasaurav.com,np",
+    "url": "https://sauravbajra.github.io/",
     "summary": "Full Stack Software Engineer with a specialization in Frontend Development",
     "location": {
       "address": "Bodhigram Tole, Satdobato",
-      "postalCode": "CA 94115",
+      "postalCode": "44700",
       "city": "Lalitpur",
       "countryCode": "NP",
       "region": "Bagmati"
