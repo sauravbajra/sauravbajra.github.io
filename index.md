@@ -8,22 +8,7 @@
 
 ## 🧠 PROFESSIONAL SUMMARY
 
-- 7+ years of experience in software development across startups and organisations.
-- Skilled in developing scalable and user-friendly web applications.
-- Strong background in UX, backend development, and cloud infrastructure.
-- Experience with:
-  - Cloud platforms (AWS)
-  - CI/CD pipelines
-  - Server administration
-- Solid understanding of algorithms, data structures, and software design principles.
-- Proficient in:
-  - SQL (PostgreSQL, MySQL)
-  - GraphQL
-  - Content management systems
-- Adept at:
-  - Managing projects
-  - Collaborating across cross-functional teams
-- Comfortable working in fast-paced, agile environments with minimal supervision.
+Software engineer with 7+ years of experience building scalable and user-centric web applications in both startup and enterprise environments. Proficient in full-stack development with a strong command of JavaScript, TypeScript, React, Node.js, and Python. Experienced in designing cloud-based solutions (AWS), leading CI/CD processes, and working across cross-functional teams. Passionate about improving UX, optimising performance, and delivering robust software architectures.
 
 ---
 
@@ -32,16 +17,9 @@
 - **Frontend Development**: React.js, Next.js, GatsbyJS, Leaflet, HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, Chakra UI
 - **Backend & Infrastructure**: Node.js, Python, Django REST Framework, PostgreSQL, AWS (Lambda, S3, EC2), Linux, Bash, Nx Monorepo Tools, Solidity, GraphQL
 - **Platforms & CMS**: WordPress, Shopify, Firebase, Stripe, Strapi
-- **Development Practices**:
-  - Responsive Web Design
-  - Software Architecture Design
-  - CI/CD
-  - Agile Methodologies
-  - Git-based version control
-  - Microservices Architecture
+- **Development Practices**: Responsive Web Design, Software Architecture Design, CI/CD, Agile Methodologies, Git-based version control, Microservices Architecture
 - **Tools**: Docker, Postman, VS Code, Helix, Git
 - **Soft Skills**: Team Leadership, Project Management, Communication, Technical Support, Server Management
-
 
 ---
 
