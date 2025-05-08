@@ -1,4 +1,3 @@
-**Software Engineer**  
 📍 Kathmandu, Nepal  
 📱 +977 9843064507  
 ✉️ [saurav.buzzracharya@gmail.com](mailto:saurav.buzzracharya@gmail.com)  
