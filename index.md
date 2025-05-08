@@ -1,4 +1,3 @@
-# SAURAV BAJRACHARYA
 **Software Engineer**  
 📍 Kathmandu, Nepal  
 📱 +977 9843064507  
