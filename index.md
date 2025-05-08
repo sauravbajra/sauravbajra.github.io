@@ -2,7 +2,7 @@
 **Software Engineer**  
 📍 Kathmandu, Nepal  
 📱 +977 9843064507  
-✉️ saurav.buzzracharya@gmail.com  
+✉️ [saurav.buzzracharya@gmail.com](mailto:saurav.buzzracharya@gmail.com)  
 🔗  LinkedIn: [linkedin.com/in/sauravbajra](https://www.linkedin.com/in/sauravbajra)
 
 ---
@@ -22,12 +22,12 @@
 
 ## 🛠️ SKILLS
 
-**Frontend Development:** React.js, Next.js, GatsbyJS, Leaflet, HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, Chakra UI  
-**Backend & Infrastructure:** Node.js, Python, Django REST Framework, PostgreSQL, AWS (Lambda, S3, EC2), Linux, Bash, Nx Monorepo Tools, Solidity, GraphQL  
-**Platforms & CMS:** WordPress, Shopify, Firebase, Supabase, Stripe, Strapi  
-**Development Practices:** Responsive Web Design, Software Architecture Design, CI/CD, Agile Methodologies, Git-based version control, Microservices Architecture  
-**Tools:** Docker, Postman, VS Code, Helix, Git  
-**Soft Skills:** Team Leadership, Project Management, Communication, Technical Support, Server Management
+- **Frontend Development:** React.js, Next.js, GatsbyJS, Leaflet, HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, Chakra UI  
+- **Backend & Infrastructure:** Node.js, Python, Django REST Framework, PostgreSQL, AWS (Lambda, S3, EC2), Linux, Bash, Nx Monorepo Tools, Solidity, GraphQL  
+- **Platforms & CMS:** WordPress, Shopify, Firebase, Supabase, Stripe, Strapi  
+- **Development Practices:** Responsive Web Design, Software Architecture Design, CI/CD, Agile Methodologies, Git-based version control, Microservices Architecture  
+- **Tools:** Docker, Postman, VS Code, Helix, Git  
+- **Soft Skills:** Team Leadership, Project Management, Communication, Technical Support, Server Management
 
 ---
 
@@ -75,35 +75,42 @@
 ## 🚀 PROJECTS
 
 ### **Satark** – [satark.bipadportal.gov.np](https://satark.bipadportal.gov.np)  
-- Multi-Hazard Early Warning DSS for Nepal’s disaster authority.  
-- Built with React and Django, incorporating weather/climate models.  
-- Coordinated with ministries and led server deployment efforts.
+Developed as part of the World Bank-funded and RIMES implemented CARE Component 1, Satark is a Multi-Hazard Early Warning DSS (Decision Support System) built for the National Disaster Risk Reduction & Management Authority of Nepal. The system utilizes hazards triggers/thresholds to generate dynamic impact forecast products. 
+- Developed the DSS using React and Django, integrating dynamic impact forecasting from hazard thresholds and weather/climate models.
+- Coordinated with government ministries for requirements gathering, data integration, and system refinement.
+- Contributed in server configuration, deployment, and scripting to ensure uptime and reliability.
 
 ### **mySecondTeacher** – [app.mysecondteacher.com](https://app.mysecondteacher.com)  
-- IGCSE academic platform with videos, e-books, and classrooms.  
-- Focused on frontend, performance, UX, and infrastructure.  
-- Led public site development and managed cross-functional coordination.
+Award-winning academic delivery platform that offers video-based lessons covering entire IGCSE syllabuses as interactive videos, e-textbooks, and test papers. The platform also offers classrooms, video conferencing, and interactive chat. 
+- Contributed to frontend development, infrastructure design and engaged in research & development to enhance user experience, cross browser compatibility and system performance.
+- Led initiatives on public websites and handled team and project management responsibilities.
+- Collaborated with cross-functional teams, including devops, design, and backend units, to ensure cohesive delivery.
 
 ### **Nepal Rastra Bank** – [nrb.org.np](https://www.nrb.org.np)  
-- Migrated official site to LAMP stack.  
-- Built modular CMS with role-based content control.
+Nepal Rastra Bank (NRB), the central bank of Nepal, is the monetary, regulatory and supervisory authority of banks and financial institutions.
+- Migrated the official NRB website to a LAMP stack, ensuring seamless data preservation and transition.
+- Implemented a modular, role-based content management system tailored to the needs of individual departments, improving content governance and administrative efficiency.
 
 ### **Deshsanchar** – [deshsanchar.com](https://deshsanchar.com)  
-- Managed AWS infra for media platform.  
-- Optimised WordPress for performance and load speed.
+Deshsanchar is a Nepali media platform that focuses on unbiased journalism.
+- Managed AWS infrastructure (EC2, S3, RDS, CloudFront) to support reliable and scalable media delivery. 
+- Optimised WordPress deployments for high-traffic performance, reducing load times and improving user experience across the platform.
 
 ### **Nepal Tea Collective** – [nepalteacollective.com](https://nepalteacollective.com)  
-- Built custom Shopify theme for eCommerce.  
-- Developed SEO-optimised landing pages.
+Nepal Tea Collective is a public benefit org which works on uplifting everyone involved in the tea industry.
+- Created and maintained custom Shopify theme, delivering responsive and brand-aligned eCommerce experience.
+- Developed and shipped landing pages optimised for SEO and marketing campaigns.
 
 ### **Felicity Club** – [felicityclub.com](https://felicityclub.com)  
-- Developed eCommerce platform using Next.js, Prisma, PostgreSQL.  
-- Integrated Stripe for secure checkout and optimised UI.
+Felicity club aims to support businesses in reaching a wider audience and to reward our members with exceptional value.
+- Led full-stack development of a modern eCommerce platform using Next.js, Prisma, PostgreSQL, and Tailwind CSS. 
+- Engineered secure, production-ready checkout flows with Stripe integration and optimised the UI for performance and user engagement.
 
 ### **Decentralized Applications – POC**  
-- **Voting DApp:** Built transparent, tamper-proof voting system on Ethereum.  
-- **Real Estate DApp:** Simulated secure property registry on blockchain.  
-- **Blackjack Game:** Developed decentralised game with smart contract logic.
+Designed and developed multiple proof-of-concept DApps to explore real-world blockchain use cases using Ethereum, Solidity, Truffle, Ganache, and React.
+- **Voting DApp:** Built a transparent, tamper-proof voting system using smart contracts, enabling decentralised and verifiable election processes.
+- **Real Estate DApp:** Simulated a blockchain-based property registry where ownership transfers and property records are securely stored on-chain.
+- **Blackjack Game:** Created a basic decentralised game of blackjack with on-chain logic execution to demonstrate smart contract-driven game mechanics.
 
 ---
 
@@ -117,4 +124,4 @@
 ## 📚 TRAININGS
 
 **MS Azure and AWS Workshop (2017)**  
-- Learned cloud service deployment, server setup, and scalability principles.
+- Gained foundational knowledge in cloud services deployment, server setup, and scalability principles on Azure and AWS platforms.
