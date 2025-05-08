@@ -33,42 +33,38 @@
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-### **RIMES – Regional Integrated Multi-hazard Early Warning System**  
-**Full Stack Developer**  
-*Apr 2024 – Present*  
-- Developed scalable web application for multi-hazard early warning system.  
-- Collaborated with designers, domain experts, and government stakeholders.  
-- Contributed in server management, deployment, and scripting.
+### RIMES – Regional Integrated Multi-hazard Early Warning System  
+**Full Stack Developer** (Apr 2024 – Present)
+- Developed scalable web application for multi-hazard early warning system.
+- Collaborated with designers, domain experts, and government stakeholders.
+- Contributed to server management, deployment, and scripting.
 
-### **Black Dove Studios**  
-**Co-Founder**  
-*Jan 2022 – Present*  
-- Delivered custom web and eCommerce solutions.  
-- Managed AWS infrastructure and server optimisation.
+### Black Dove Studios  
+**Co-Founder** (Jan 2022 – Present)
+- Delivered custom web and eCommerce solutions.
+- Managed cloud infrastructure and server optimisation.
 
-### **Innovate Tech**  
-**Senior Software Engineer**  
-*Jun 2022 – Mar 2024*  
-- Delivered end-to-end software using modern frameworks.  
-- Migrated to monorepo with Nx and improved CI/CD workflows.  
-- Led team collaborations across departments.
+### Innovate Tech  
 
-**Software Engineer**  
-*Jan 2019 – Jun 2022*  
-- Developed high-performance web features.  
-- Partnered with design and QA teams to enhance UX and reliability.
+**Senior Software Engineer** (Jun 2022 – Mar 2024)
+- Delivered end-to-end web solutions using modern frameworks.
+- Migrated applications to Nx-based monorepo.
+- Led cross-functional team collaboration.
+- Improved deployment efficiency via CI/CD.
 
-### **Expresiv Studios**  
-**Frontend Engineer**  
-*Jun 2018 – Jul 2019*  
-- Developed responsive websites with HTML, CSS, WordPress, and SASS.  
-- Ensured pixel-perfect, UX-aligned designs.
+**Software Engineer** (Jan 2019 – Jun 2022)
+- Built high-performance web features with reusable architecture.
+- Partnered with design and QA for reliable feature delivery.
 
-### **Verscend Technologies Pvt. Ltd.**  
-**Intern**  
-*May 2017 – Jul 2017*  
-- Built RBAC system for internal HR software.  
-- Collaborated on integration and testing.
+### Expresiv Studios  
+**Frontend Engineer** (Jun 2018 – Jul 2019)
+- Developed responsive websites using HTML, CSS, WordPress, and SASS.
+- Delivered pixel-perfect, UX-aligned designs.
+
+### Verscend Technologies Pvt. Ltd.  
+**Intern** (May 2017 – Jul 2017)
+- Built role-based access control system for internal HR software.
+- Collaborated on system integration and testing.
 
 ---
 
