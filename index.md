@@ -1,6 +1,6 @@
 📍 Kathmandu, Nepal  
 📱 +977 9843064507  
-✉️ [mail@bajracharyasaurav.com.np](mailto:mail@bajracharyasaurav.com.np)  
+✉️ [mail@BajracharyaSaurav.com.np](mailto:mail@BajracharyaSaurav.com.np)  
 🔗  LinkedIn: [linkedin.com/in/sauravbajra](https://www.linkedin.com/in/sauravbajra)
 
 ---
