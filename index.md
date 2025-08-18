@@ -15,28 +15,27 @@ Software engineer with 7+ years of experience building scalable and user-centric
 
 - **Frontend Development**: React.js, Next.js, GatsbyJS, Leaflet, HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, Chakra UI
 - **Backend & Infrastructure**: Node.js, Python, Django REST Framework, PostgreSQL, AWS (Lambda, S3, EC2), Linux, Bash, Nx Monorepo Tools, Solidity, GraphQL
-- **Platforms & CMS**: WordPress, Shopify, Firebase, Stripe, Strapi
+- **Platforms & CMS**: WordPress, Shopify, Firebase, Stripe, Strapi, Supabase
 - **Development Practices**: Responsive Web Design, Software Architecture Design, CI/CD, Agile Methodologies, Git-based version control, Microservices Architecture
-- **Tools**: Docker, Postman, VS Code, Helix, Git
+- **Tools**: Docker, Postman, VS Code, Helix, Neovim, Git
 - **Soft Skills**: Team Leadership, Project Management, Communication, Technical Support, Server Management
 
 ---
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-### RIMES – Regional Integrated Multi-hazard Early Warning System  
-**Full Stack Developer** (Apr 2024 – Present)
-- Developed scalable web application for multi-hazard early warning system.
-- Collaborated with designers, domain experts, and government stakeholders.
-- Contributed to server management, deployment, and scripting.
-
 ### Black Dove Studios  
 **Co-Founder** (Jan 2022 – Present)
 - Delivered custom web and eCommerce solutions.
 - Managed cloud infrastructure and server optimisation.
 
-### Innovate Tech  
+### RIMES – Regional Integrated Multi-hazard Early Warning System  
+**Full Stack Developer** (Apr 2024 – July 2025)
+- Developed scalable web application for multi-hazard early warning system.
+- Collaborated with designers, domain experts, and government stakeholders.
+- Contributed to server management, deployment, and scripting.
 
+### Innovate Tech  
 **Senior Software Engineer** (Jun 2022 – Mar 2024)
 - Delivered end-to-end software using modern frameworks.  
 - Migrated to monorepo with Nx and improved CI/CD workflows.  
