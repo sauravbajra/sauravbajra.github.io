@@ -1,5 +1,5 @@
-📍 Kathmandu, Nepal  
-📱 +977 9843064507  
+📍 Bayonne, NJ 
+📱 +1 (551) 426-4190  
 ✉️ [SauravBajracharya.sb@gmail.com](mailto:SauravBajracharya.sb@gmail.com)  
 🔗  LinkedIn: [linkedin.com/in/sauravbajra](https://www.linkedin.com/in/sauravbajra)
 
@@ -7,7 +7,8 @@
 
 ## 🧠 PROFESSIONAL SUMMARY
 
-Software engineer with 7+ years of experience building scalable and user-centric web applications in both startup and enterprise environments. Proficient in full-stack development with a strong command of JavaScript, TypeScript, React, Node.js, and Python. Experienced in designing cloud-based solutions (AWS), leading CI/CD processes, and working across cross-functional teams. Passionate about improving UX, optimising performance, and delivering robust software architectures.
+7+ years of experience in software development across startups and organisations. **Authorized to work in the U.S. for any employer (No sponsorship required).**
+Proficient in full-stack development with a strong command of JavaScript, TypeScript, React, Node.js, and Python. Experienced in designing cloud-based solutions (AWS), leading CI/CD processes, and working across cross-functional teams. Passionate about improving UX, optimising performance, and delivering robust software architectures.
 
 ---
 
