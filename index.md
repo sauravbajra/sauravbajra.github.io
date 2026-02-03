@@ -1,5 +1,5 @@
-📍 Bayonne, NJ 
-📱 +1 (551) 426-4190  
+📍 Bayonne, NJ   
+📱 +1 (551) 426-4190   
 ✉️ [SauravBajracharya.sb@gmail.com](mailto:SauravBajracharya.sb@gmail.com)  
 🔗  LinkedIn: [linkedin.com/in/sauravbajra](https://www.linkedin.com/in/sauravbajra)
 
