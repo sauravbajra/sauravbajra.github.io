@@ -7,7 +7,7 @@
 
 ## 🧠 PROFESSIONAL SUMMARY
 
-7+ years of experience in software development across startups and organisations. **Authorized to work in the U.S. for any employer (No sponsorship required).**
+7+ years of experience in software development across startups and organisations. **Authorized to work in the U.S. (L-2S Status - No Sponsorship Required).**
 Proficient in full-stack development with a strong command of JavaScript, TypeScript, React, Node.js, and Python. Experienced in designing cloud-based solutions (AWS), leading CI/CD processes, and working across cross-functional teams. Passionate about improving UX, optimising performance, and delivering robust software architectures.
 
 ---
