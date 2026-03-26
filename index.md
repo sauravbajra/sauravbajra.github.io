@@ -7,18 +7,20 @@
 
 ## 🧠 PROFESSIONAL SUMMARY
 
-7+ years of experience in software development across startups and organisations. **Authorized to work in the U.S. (L-2S Status - No Sponsorship Required).**
-Proficient in full-stack development with a strong command of JavaScript, TypeScript, React, Node.js, and Python. Experienced in designing cloud-based solutions (AWS), leading CI/CD processes, and working across cross-functional teams. Passionate about improving UX, optimising performance, and delivering robust software architectures.
+**Frontend-Leaning Fullstack Engineer** with 7+ years of experience in software
+development across startups and organisations. **Authorized to work in the U.S. (L-2S Status - No Sponsorship Required).** Specialized in React and TypeScript (70%) with a robust foundation in Node.js,
+Python, and AWS cloud infrastructure (30%). Proven track record of leading end-to-end delivery in agile environments, bridging the gap between sophisticated UI/UX and complex backend logic. Expert in modernizing frontend architectures, optimizing Core Web Vitals, and implementing accessible (WCAG) design systems.
 
 ---
 
 ## 🛠️ SKILLS
 
 - **Frontend Development**: React.js, Next.js, GatsbyJS, Leaflet, HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, Chakra UI
-- **Backend & Infrastructure**: Node.js, Python, Django REST Framework, PostgreSQL, AWS (Lambda, S3, EC2), Linux, Bash, Nx Monorepo Tools, Solidity, GraphQL
-- **Platforms & CMS**: WordPress, Shopify, Firebase, Stripe, Strapi, Supabase
+- **Backend and Infrastructure**: Node.js, Python, Django REST Framework, PostgreSQL, AWS (Lambda, S3, EC2), Linux, Bash, Nx Monorepo Tools, Solidity, GraphQL
+- **AI**: Langchain, RAG, ChromaDB, LLM Integration
+- **Platforms and CMS**: WordPress, Shopify, Firebase, Stripe, Strapi, Supabase
 - **Development Practices**: Responsive Web Design, Software Architecture Design, CI/CD, Agile Methodologies, Git-based version control, Microservices Architecture
-- **Tools**: Docker, Postman, VS Code, Helix, Neovim, Git
+- **Tools**: Docker, Postman, VS Code, Helix, Neovim, Git, Claude, Opencode
 - **Soft Skills**: Team Leadership, Project Management, Communication, Technical Support, Server Management
 
 ---
@@ -86,11 +88,12 @@ Proficient in full-stack development with a strong command of JavaScript, TypeSc
 - Built modern eCommerce platform using Next.js, Prisma, PostgreSQL, and Tailwind CSS
 - Engineered secure checkout with Stripe integration.
 
-### **Decentralized Applications – POC**  
-- Developed multiple proof-of-concept DApps using Ethereum, Solidity, Truffle, Ganache, and React.
-- **Voting DApp:** Transparent voting system on Ethereum.  
-- **Real Estate DApp:** Blockchain-based property registry.  
-- **Blackjack Game:** Smart contract-driven decentralised game.
+### **Career and Doc Copilot – POC**  
+- This project was built as a hands-on learning exercise to understand the fundamentals of building AI-powered applications with LLMs, RAG and vector databases. 
+- A dual-purpose AI assistant built with Python, Streamlit, and LangChain. Chat with your PDFs or get resume feedback.
+- **DocuChat** - Upload any PDF and ask questions about its content
+- **CareerCopilot** - Upload a resume, paste a job description, get feedback and cover letters
+- **Local-first** - Run entirely locally with Ollama, or use cloud APIs
 
 ---
 
