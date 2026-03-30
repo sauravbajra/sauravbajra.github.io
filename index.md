@@ -17,7 +17,7 @@ Python, and AWS cloud infrastructure (30%). Proven track record of leading end-t
 
 - **Frontend Development**: React.js, Next.js, GatsbyJS, Leaflet, HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, Chakra UI
 - **Backend and Infrastructure**: Node.js, Python, Django REST Framework, PostgreSQL, AWS (Lambda, S3, EC2), Linux, Bash, Nx Monorepo Tools, Solidity, GraphQL
-- **AI**: Langchain, RAG, ChromaDB, LLM Integration
+- **AI**: LLM Integration, Langchain, RAG (Retrieval-Augmented Generation), ChromaDB, Ollama, OpenAI APIs, Copilot Development, Streamlit
 - **Platforms and CMS**: WordPress, Shopify, Firebase, Stripe, Strapi, Supabase
 - **Development Practices**: Responsive Web Design, Software Architecture Design, CI/CD, Agile Methodologies, Git-based version control, Microservices Architecture
 - **Tools**: Docker, Postman, VS Code, Helix, Neovim, Git, Claude, Opencode
@@ -34,9 +34,11 @@ Python, and AWS cloud infrastructure (30%). Proven track record of leading end-t
 
 ### RIMES – Regional Integrated Multi-hazard Early Warning System  
 **Full Stack Developer** (Apr 2024 – July 2025)
-- Developed scalable web application for multi-hazard early warning system.
-- Collaborated with designers, domain experts, and government stakeholders.
-- Contributed to server management, deployment, and scripting.
+- Developed scalable decision support system using Python, Django, and React for multi-hazard early warning applications.
+- Engineered automated geospatial data processing pipelines using Python with leaflet, Geoserver, geojson and PostGIS for real-time hazard visualization.
+- Collaborated with designers, domain experts, and government stakeholders for user-focused solutions.
+- Integrated machine learning models for hazard prediction and bias correction.
+- Contributed in server management and scripting to ensure uptime and reliability.
 
 ### Innovate Tech  
 **Senior Software Engineer** (Jun 2022 – Mar 2024)
@@ -88,12 +90,11 @@ Python, and AWS cloud infrastructure (30%). Proven track record of leading end-t
 - Built modern eCommerce platform using Next.js, Prisma, PostgreSQL, and Tailwind CSS
 - Engineered secure checkout with Stripe integration.
 
-### **Career and Doc Copilot – POC**  
-- This project was built as a hands-on learning exercise to understand the fundamentals of building AI-powered applications with LLMs, RAG and vector databases. 
-- A dual-purpose AI assistant built with Python, Streamlit, and LangChain. Chat with your PDFs or get resume feedback.
-- **DocuChat** - Upload any PDF and ask questions about its content
-- **CareerCopilot** - Upload a resume, paste a job description, get feedback and cover letters
-- **Local-first** - Run entirely locally with Ollama, or use cloud APIs
+### **Career and Doc Copilot – AI-Powered Assistant**  
+Developed AI copilot application using Python, LangChain, and LLM integration for career assistance, resume optimization, intelligent document processing and Q&A.
+- Implemented RAG (Retrieval-Augmented Generation) pipeline with ChromaDB vector database for context-aware responses from PDF documents
+- Engineered CareerCopilot module: AI-driven resume analysis against job descriptions with automated cover letter generation
+- Integrated multiple LLM providers (Ollama for local deployment, OpenAI APIs for cloud) enabling flexible, cost-effective AI inference
 
 ---
 
