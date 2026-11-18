@@ -27,8 +27,12 @@ Python, and AWS cloud infrastructure (30%). Proven track record of leading end-t
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
+### Callagy Recovery Corp.
+**Software Developer** (May 2026 - Present)
+- Develop and maintain proprietary internal software.
+
 ### Black Dove Studios  
-**Co-Founder** (Jan 2022 – Present)
+**Co-Founder** (Jan 2022 – Jan 2026)
 - Delivered custom web and eCommerce solutions.
 - Managed cloud infrastructure and server optimisation.
 
